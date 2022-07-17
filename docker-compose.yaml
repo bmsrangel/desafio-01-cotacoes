@@ -6,7 +6,7 @@ services:
     ports:
       - 8080:80
   
-  server:
-    image: myserver
-    ports:
-      - 3000:3000
+  # server:
+  #   image: myserver
+  #   ports:
+  #     - 3000:3000
